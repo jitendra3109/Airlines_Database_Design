@@ -8,4 +8,5 @@ Before you up and runnig you need to install Posgres SQL.
     erd1.pdf this pdf show entity relation diagram which is the backbone of the project.
     Relation Schema.pdf  is also the funda of project.
     fd.pdf this document tell funcational dependecy  which is also most important part to reduce the redundancy.
+    
 
